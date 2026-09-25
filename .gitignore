@@ -1,0 +1,3 @@
+*.o
+/c_bwtest
+*.o\n/bwtest\n*:Zone.Identifier\n
