@@ -2,10 +2,6 @@
 Measures download/upload bandwidth against a speedtest server and reports the
 country of your public IP
 
-## Build
-
-    make
-
 ## Installation (Linux)
 
 Install dependencies: `sudo apt install libcurl4-openssl-dev`
